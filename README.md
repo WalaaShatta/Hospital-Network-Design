@@ -1,24 +1,30 @@
 # Hospital Network Design
 
-This project presents a hospital network design created as a networking planning project.  
-The project focuses on designing the network topology, organizing hospital departments, and preparing subnetting/IP addressing documentation.
+This project presents a hospital network infrastructure design for a medium-sized hospital environment.
 
-## Project Scope
+## Project Overview
+The design supports approximately 500 staff members and up to 1000 patients. It focuses on reliability, security, scalability, redundancy, and efficient communication between hospital departments and remote clinics.
 
-- Hospital network topology design
-- Department-based network organization
-- Subnetting plan
-- IP addressing structure
-- Network documentation using PDF report
+## Main Components
+- Network requirements analysis
+- Three-tier hierarchical design: core, distribution, and access layers
+- VLAN design for hospital departments
+- IP addressing and subnetting plan
+- WAN connectivity for remote clinics
+- Physical network design
+- Network devices and equipment selection
+- Alternative design comparison
+- Budget estimation
 
-## Tools Used
-
+## Tools & Concepts
 - Cisco Packet Tracer
-- PDF documentation
-- Networking concepts: subnetting, IP addressing, routers, switches, and network topology design
+- VLANs
+- IP addressing and subnetting
+- WAN links
+- Redundancy
+- Network security
+- Hierarchical network design
+- Budget planning
 
 ## Note
-
-This project focuses mainly on network design and subnetting documentation.  
-Full device configuration was not the main scope of this version.
-
+This project focuses on network design and documentation. Full device CLI configuration was not the main scope of this version.
